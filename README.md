@@ -1,3 +1,4 @@
+![IMG_20250720_000317](https://github.com/user-attachments/assets/86ca482b-51b2-447b-9192-1ce499974911)
 # 🌦️ Basic Weather App
 
 A beginner-friendly weather app that shows the current weather of any city using the **Weather API**. Built with **HTML**, **CSS**, and **JavaScript**.
