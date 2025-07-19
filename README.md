@@ -17,10 +17,6 @@ A beginner-friendly weather app that shows the current weather of any city using
 - **JavaScript**
 - **[OpenWeather API](https://openweathermap.org/api)** or any weather API you prefer
 
-## 📷 Preview
-
-![Screenshot](screenshot.png) <!-- (Optional: Replace with actual image link or upload one) -->
-
 ## 🔧 How It Works
 
 1. User types a city name
